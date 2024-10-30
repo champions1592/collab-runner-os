@@ -32,7 +32,8 @@ No Unauthorized Remote Administration: Using unauthorized remote admin tools (e.
 No Security Bypass Attempts: Attempting to bypass any security protocols or measures protecting the VM is forbidden.
 No Destructive Actions: Avoid actions that disrupt the VM, such as making it unusable, excessive OS reinstalls, or running bots that perform destructive actions. Excessive keyboard/mouse input (“kitting”) is also prohibited.
 No Cryptocurrency Mining: Mining on the collaborative VM is strictly prohibited.
-No Pornography: Porn is never acceptable.
+No Porn/Child Porn: it is never acceptable
+No Hacking: for security no hacking.
 License and Rights 📝
 © 2024 Collab-Runner. All rights reserved.
 
